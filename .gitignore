@@ -1,0 +1,5 @@
+# resultant byte code
+*.o 
+
+# list file
+*.lst
