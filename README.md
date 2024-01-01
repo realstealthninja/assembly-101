@@ -7,11 +7,6 @@ in no particular order:
  - arm
  - MIPS
 
-## why this directory
-In this directory I wish to document my journey to the inital frontier.
-
-
-
 # Assembling 
 To assemble the source code to machine code we must use an assembler 
 in this instance ill be using NASM a popular assembler for Unix like systems.
