@@ -9,7 +9,7 @@ in no particular order:
 
 # Assembling 
 To assemble the source code to machine code we must use an assembler 
-in this instance ill be using NASM a popular assembler for Unix like systems.
+in this instance ill be using YASM a popular assembler for Unix like systems.
 
 
 
