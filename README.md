@@ -7,6 +7,9 @@ in no particular order:
  - arm
  - MIPS
 
+I will be following this excellent [pdf document](http://www.egr.unlv.edu/~ed/assembly64.pdf) which goes into great depth about assembly
+It seems only fitting to follow a textual approach to such a process
+
 # Assembling 
 To assemble the source code to machine code we must use an assembler 
 in this instance ill be using YASM a popular assembler for Unix like systems.
