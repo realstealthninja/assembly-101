@@ -64,7 +64,7 @@ _start:
     add  ax, word [d]
     mov  word [result_word], ax 
 
-    ; perform a simple adddition operation on double words
+    ; perform a simple addition operation on double words
 
     mov eax, dword [e]
     add eax, dword [f]
